@@ -1,4 +1,4 @@
-[![Header](https://www.dropbox.com/s/4bsonulq13f68ny/Damon%20Roberts.gif?dl=0 "Header")](https://damoncroberts.com)
+[![Header](https://github.com/DamonCharlesRoberts/DamonCharlesRoberts/blob/master/Damon%20Roberts.gif "Header")](https://damoncroberts.com)
 # Hello! 👋
 
 I'm a PhD Student (📚 + 📈 = 🤓) in the Department of Political Science at the University of Colorado Boulder. Broadly speaking, I research American Political Psychology and Political Communication as it involves race and ethnicity and gender in politics. I also am a strong advocate for implementing new, and improving upon existing, statistical techniques for causal inference. Currently my projects involve studying communicative differences among political elites to determine what that does to shape attitudes about policy and towards other groups of people. 
