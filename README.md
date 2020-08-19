@@ -1,9 +1,15 @@
-# Hello!
+# Hello! 👋
 
-I'm a PhD Student in the Department of Political Science at the University of Colorado Boulder. Broadly speaking, I research American Political Psychology and Political Communication as it involves race and ethnicity and gender in politics. I also am a strong advocate for implementing new, and improving upon existing, statistical techniques for causal inference. Currently my projects involve studying communicative differences among political elites to determine what that does to shape attitudes about policy and towards other groups of people. 
+I'm a PhD Student (📚 + 📈 = 🤓) in the Department of Political Science at the University of Colorado Boulder. Broadly speaking, I research American Political Psychology and Political Communication as it involves race and ethnicity and gender in politics. I also am a strong advocate for implementing new, and improving upon existing, statistical techniques for causal inference. Currently my projects involve studying communicative differences among political elites to determine what that does to shape attitudes about policy and towards other groups of people. 
 
-## Free Time
+## &#9918; &#128054; 	&#128049; Free Time 
 Apart from spending my time coding and researching, I enjoy going on long runs in the mountains, hikes, watching baseball, and spending time with my miniature poodle, Max, and my black cat, Salem.
+
+## Where to find me
+- [Website](https://www.damoncroberts.com)
+- [Twitter](https://www.twitter.com/damoncroberts)
+- [LinkedIn](https://www.linkedin.com/in/damon-roberts-00a08a197)
+- [Google Scholar](https://www.googlescholar.com/damoncroberts)
 
 
 ## &#x1f4c8; GitHub Stats
