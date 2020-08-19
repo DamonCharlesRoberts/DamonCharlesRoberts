@@ -1,4 +1,12 @@
 [![Header](https://github.com/DamonCharlesRoberts/DamonCharlesRoberts/blob/master/Damon%20Roberts.gif "Header")](https://damoncroberts.com)
+<!--badges-->
+<img src="https://komarev.com/ghpvc/?username=DamonCharlesRoberts" alt="DamonCharlesRoberts" />   <img src="https://img.shields.io/badge/%F0%9F%94%A7editor-vscode-yellow" alt="Editor: VSCode">
+<!--
+1. profile view count
+2. Pronouns: She/her
+3. Editor: neovim
+-->
+
 # Hello! 👋
 
 I'm a PhD Student (📚 + 📈 = 🤓) in the Department of Political Science at the University of Colorado Boulder. Broadly speaking, I research American Political Psychology and Political Communication as it involves race and ethnicity and gender in politics. I also am a strong advocate for implementing new, and improving upon existing, statistical techniques for causal inference (specifically, machine learning). Currently my projects involve studying communicative differences (via NLP techniques) among political elites to determine what that does to shape attitudes about policy and towards other groups of people. 
