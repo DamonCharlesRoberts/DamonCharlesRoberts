@@ -1,4 +1,4 @@
-[![Header](https://github.com/DamonCharlesRoberts/DamonCharlesRoberts/blob/master/header.png "Header")](https://damoncroberts.com)
+[![Header](https://github.com/DamonCharlesRoberts/DamonCharlesRoberts/blob/master/header.jpg "Header")](https://damoncroberts.com)
 <!--badges-->
 <img src="https://komarev.com/ghpvc/?username=DamonCharlesRoberts" alt="DamonCharlesRoberts" />   <img src="https://img.shields.io/badge/%F0%9F%94%A7editor-vscode-yellow" alt="Editor: VSCode">
 <!--
