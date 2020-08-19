@@ -18,7 +18,7 @@ Apart from spending my time coding and researching, I enjoy going on long runs i
 - [Website](https://www.damoncroberts.com)
 - [Twitter](https://www.twitter.com/damoncroberts)
 - [LinkedIn](https://www.linkedin.com/in/damon-roberts-00a08a197)
-- [Google Scholar](https://www.googlescholar.com/damoncroberts)
+- [Google Scholar](https://scholar.google.com/citations?user=jc_U0LoAAAAJ&hl=en)
 
 
 ## &#x1f4c8; GitHub Stats
