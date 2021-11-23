@@ -29,13 +29,3 @@ Apart from spending my time coding and researching, I enjoy going on long runs i
 <a href="https://github.com/DamonCharlesRoberts">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DamonCharlesRoberts&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Damon's Gethub Stats" />
 </a>
-
-<a href="https://github.com/DamonCharlesRoberts/ANES-2020-Cleaning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DamonCharlesRoberts&repo=ANES-2020-Cleaning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/DamonCharlesRoberts/ScrapeCongress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DamonCharlesRoberts&repo=ScrapeCongress&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
