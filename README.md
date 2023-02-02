@@ -24,7 +24,7 @@ Apart from spending my time coding and researching, I enjoy going on long runs i
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/DamonCharlesRoberts/DamonCharlesRoberts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamonCharlesRoberts&hide=java,rtf,tex,ipynb,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamonCharlesRoberts&hide=java,rtf,tex,jupyter,html,css,stata&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/DamonCharlesRoberts">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DamonCharlesRoberts&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Damon's Gethub Stats" />
