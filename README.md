@@ -1,11 +1,24 @@
-[![Header](https://github.com/DamonCharlesRoberts/DamonCharlesRoberts/blob/master/header.jpg "Header")](https://damoncroberts.com)
-<!--badges-->
-<img src="https://komarev.com/ghpvc/?username=DamonCharlesRoberts" alt="DamonCharlesRoberts" />   <img src="https://img.shields.io/badge/%F0%9F%94%A7editor-vscode-yellow" alt="Editor: VSCode">
-<!--
-1. profile view count
-2. Pronouns: She/her
-3. Editor: neovim
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oxHQr6r2x0GqGnois/giphy.gif" width = "300"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/damon-roberts-00a08a197/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/damoncroberts">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
 
 # Hello! 👋
 
