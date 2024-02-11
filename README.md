@@ -18,7 +18,7 @@
  <h1>
    About me!
   </h1>
-  <p> I am a PhD candidate and computational social scientist at the University of Colorado Boulder in the Political Science department. </p>
+  <p> I am the Manager of Elections at ABC News' Decision Desk and a PhD candidate at the University of Colorado Boulder in the Political Science department. </p>
   <p> :brain: Research examines the cognitive processes that occur when we are exposed to politics. </p>
   <p> :man_technologist: Also researches the role of missing data problems in substantive research and how we can do better with estimators for experimental data. </p>
   <p> :mantelpiece_clock: Big advocate of more injection of data engineering principles in academia! </p>
