@@ -19,7 +19,6 @@
    About me!
   </h1>
   <p> I am the Manager of Elections at ABC News' Decision Desk. </p>
-  <p> :brain: Research examines the cognitive processes that occur when we are exposed to politics. </p>
 
 <h1>
   :hammer_and_wrench: Languages and tools
