@@ -30,7 +30,7 @@ I do not believe in gatekeeping information. I love contributing to open source 
 - My fur-babies
 
 <hr>
-<h2 align="center">Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & more</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
@@ -43,4 +43,28 @@ I do not believe in gatekeeping information. I love contributing to open source 
   <code><img title="Julia" height="25" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 </p>
+<hr>
+
+<h2 align="center">Stats</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/damoncharlesroberts/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=damoncharlesroberts&theme=react&border=61dafb&hide_border=true" alt="damoncharlesroberts" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=damoncharlesroberts&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damoncharlesroberts&hide=r,html,tex,lua&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damoncharlesroberts&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
 <hr>
