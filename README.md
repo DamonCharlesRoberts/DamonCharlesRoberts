@@ -34,7 +34,7 @@ I do not believe in gatekeeping information. I love contributing to open source 
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
-  <code><img title="Stan" height="25" src="https://mc-stan.org/images/stan_logo.png"></code>
+  <code><img title="Stan" height="25" src="https://mc-stan.org/docs/2_19/reference-manual/img/logo_tm.png"></code>
   <code><img title="Django" height="25" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
   <code><img title="Poetry" height="25" src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
