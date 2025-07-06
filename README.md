@@ -29,22 +29,6 @@ I do not believe in gatekeeping information. I love contributing to open source 
 - Baseball
 - My fur-babies
 
-<hr>
-<h2 align="center">Languages & more</h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="25" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></code>
-  <code><img title="Stan" height="25" src="https://mc-stan.org/docs/2_19/reference-manual/img/logo_tm.png"></code>
-  <code><img title="Django" height="25" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-  <code><img title="Poetry" height="25" src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-  <code><img title="R" height="25" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg"></code>
-  <code><img title="Julia" height="25" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-</p>
-<hr>
-
 <h2 align="center">Stats</h2>
 <br>
 <p align=center>
