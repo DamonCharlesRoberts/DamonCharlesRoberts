@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h2>Going forward, putting my code on Gitlab at: https//gitlab.com/damoncroberts</h2>
+<h2>Going forward, putting my code on Gitlab at: https://gitlab.com/damoncroberts</h2>
 
 <h2>What I do</h2>
 
